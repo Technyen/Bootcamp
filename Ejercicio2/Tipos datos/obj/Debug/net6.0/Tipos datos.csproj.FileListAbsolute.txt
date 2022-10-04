@@ -1,0 +1,15 @@
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\bin\Debug\net6.0\Tipos datos.exe
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\bin\Debug\net6.0\Tipos datos.deps.json
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\bin\Debug\net6.0\Tipos datos.runtimeconfig.json
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\bin\Debug\net6.0\Tipos datos.dll
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\bin\Debug\net6.0\Tipos datos.pdb
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.csproj.AssemblyReference.cache
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.AssemblyInfoInputs.cache
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.AssemblyInfo.cs
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.csproj.CoreCompileInputs.cache
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.dll
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\refint\Tipos datos.dll
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.pdb
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\Tipos datos.genruntimeconfig.cache
+C:\Users\pengh\source\repos\Ejercicio2\Tipos datos\obj\Debug\net6.0\ref\Tipos datos.dll
